@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1571157095 source:e:\nothing\ai project\smaret vehicle\main.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	<graphics.h>
+	<dos.h>
+	<chrono>
+
